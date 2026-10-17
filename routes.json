@@ -1,0 +1,38 @@
+[
+  {
+    "path": "/",
+    "file": "index.html"
+  },
+  {
+    "path": "/products",
+    "file": "index.html"
+  },
+  {
+    "path": "/purchases",
+    "file": "index.html"
+  },
+  {
+    "path": "/sales",
+    "file": "index.html"
+  },
+  {
+    "path": "/me",
+    "file": "index.html"
+  },
+  {
+    "path": "/suppliers",
+    "file": "index.html"
+  },
+  {
+    "path": "/expenses",
+    "file": "index.html"
+  },
+  {
+    "path": "/reports",
+    "file": "index.html"
+  },
+  {
+    "path": "/settings",
+    "file": "index.html"
+  }
+]
